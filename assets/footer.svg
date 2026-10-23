@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="160" viewBox="0 0 1200 160" role="img" aria-label="Thanks for stopping by">
+<style>.t{font:800 26px 'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#f8fafc} .s{font:500 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#c7d2fe}</style>
+<defs><clipPath id="c"><rect width="1200" height="160" rx="18"/></clipPath>
+<linearGradient id="bg" x1="0" x2="1"><stop offset="0" stop-color="#1e1b4b"/><stop offset="1" stop-color="#070b14"/></linearGradient></defs>
+<g clip-path="url(#c)">
+ <rect width="1200" height="160" fill="url(#bg)"/>
+ <path d="M0 108 Q150 96 300 108 Q450 120 600 108 Q750 96 900 108 Q1050 120 1200 108 Q1350 96 1500 108 Q1650 120 1800 108 Q1950 96 2100 108 Q2250 120 2400 108 V160 H0 Z" fill="#6366f1" fill-opacity=".35"><animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="9s" repeatCount="indefinite"/></path>
+ <path d="M0 124 Q150 140 300 124 Q450 108 600 124 Q750 140 900 124 Q1050 108 1200 124 Q1350 140 1500 124 Q1650 108 1800 124 Q1950 140 2100 124 Q2250 108 2400 124 V160 H0 Z" fill="#22d3ee" fill-opacity=".25"><animateTransform attributeName="transform" type="translate" from="-600 0" to="0 0" dur="7s" repeatCount="indefinite"/></path>
+ <path d="M0 140 Q150 131 300 140 Q450 149 600 140 Q750 131 900 140 Q1050 149 1200 140 Q1350 131 1500 140 Q1650 149 1800 140 Q1950 131 2100 140 Q2250 149 2400 140 V160 H0 Z" fill="#ec4899" fill-opacity=".3"><animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="5s" repeatCount="indefinite"/></path>
+</g>
+<text x="600" y="54" text-anchor="middle" class="t">Thanks for stopping by</text>
+<text x="600" y="80" text-anchor="middle" class="s">Always building something new.</text>
+</svg>
